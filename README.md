@@ -40,7 +40,3 @@ SCREENSHOTS:
 
 <img width="1919" height="1143" alt="image" src="https://github.com/user-attachments/assets/c6942d5d-43ac-4ad5-bb05-547f1bf54fc2" />
 
-
-
-   ```bash
-   git clone https://github.com/your-username/todo-list.git
